@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "交差点",
+  "base_artist": "BANTY FOOT",
+  "createdAt": "2026-02-10T05:41:09.535002Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "交差点 (feat. EXPRESS)",
+      "artist": "BANTY FOOT",
+      "has_synced": true,
+      "path": "select/01_交差点_(feat._EXPRESS)_BANTY_FOOT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "交差点",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/02_交差点_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "交差点",
+      "artist": "ANGERME",
+      "has_synced": true,
+      "path": "select/03_交差点_ANGERME.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "路(交差点)",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/04_路(交差点)_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "交差点",
+      "artist": "BANTY FOOT",
+      "has_synced": true,
+      "path": "select/05_交差点_BANTY_FOOT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "路(交差点)",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/06_路(交差点)_鈴木雅之.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "交差点",
+      "artist": "Banty Foot, Express",
+      "has_synced": false,
+      "path": "select/pl_01_交差点_Banty_Foot,_Express.txt"
+    }
+  ]
+}
